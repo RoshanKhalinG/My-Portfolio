@@ -1,5 +1,4 @@
 import React from 'react'
-import { Wrapper } from '../Projects/ProjectsStyle';
 
 const About = () => {
   return (
